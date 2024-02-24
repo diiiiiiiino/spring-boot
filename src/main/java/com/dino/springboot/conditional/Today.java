@@ -1,4 +1,4 @@
-package com.dino.springboot.contional;
+package com.dino.springboot.conditional;
 
 import jakarta.annotation.PostConstruct;
 

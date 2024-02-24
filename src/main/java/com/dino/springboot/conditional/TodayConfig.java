@@ -1,4 +1,4 @@
-package com.dino.springboot.contional;
+package com.dino.springboot.conditional;
 
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 import org.springframework.context.annotation.Bean;
